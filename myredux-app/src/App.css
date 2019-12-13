@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+p .answer {
+  display: none;
+}
+
+p .answer .revealed {
+  display: block;
+}
