@@ -1,11 +1,12 @@
 import React from 'react';
-import Trivia from './components/Trivia';
+import Vehicles from "./component/Vehicles";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Trivia />
+      <h1>Studio Ghibli Vehicle Finder</h1>
+      <Vehicles />
     </div>
   );
 }
