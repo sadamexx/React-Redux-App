@@ -1,0 +1,23 @@
+
+ .trivia {
+   background-color: white;
+   opacity: .75;
+   margin: 30px 450px;
+   padding: 20px; 
+ }
+ 
+ .answer {
+    display: none;
+  }
+  
+ .answer .revealed {
+    display: block;
+  }
+
+.button .revealed {
+  display: block;
+}
+
+.button  {
+  display: none;
+}
